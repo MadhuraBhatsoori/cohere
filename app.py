@@ -146,7 +146,7 @@ class Chatbot:
 
 # Streamlit UI
 def main():
-    st.title("PDF Document Chatbot")
+    st.title("Food nutrition Chatbot")
 
     # Initialize raw documents
     raw_documents = [
